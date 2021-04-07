@@ -10,3 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Resume"
+    url: /assets/rsc/PublicResume_BL.pdf
+    
