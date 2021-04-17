@@ -7,7 +7,7 @@ header:
   image: /assets/images/abouthead.png
 ---
 
-My name is Brandon Le. I'm a student at Texas A&M University, Class of 2023. I am currently studying Management Information Systems and Cybersecurity at Mays Business School, as part of the Business Honors Program.
+Howdy! My name is Brandon Le. I'm a student at Texas A&M University, Class of 2023. I am currently studying Management Information Systems and Cybersecurity at Mays Business School, as part of the Business Honors Program.
 
 Outside of class, I work as a Student Technician for the Engineering Studio for Advanced Instruction and Learning (eSAIL), a Department of the Texas A&M Engineering Expiriment Station (TEES) within the Texas A&M System.
 
