@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Posts"
+    url: /year-archive/
+  - title: "CompTIA"
+    url: /comptia/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
@@ -8,8 +12,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Posts"
-    url: /year-archive/
   - title: "Resume"
     url: /assets/rsc/PublicResume_BL.pdf
     
