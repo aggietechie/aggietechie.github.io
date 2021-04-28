@@ -92,7 +92,7 @@ You could argue that Cloud Computing is a major force of today's world in inform
 
 You may be wondering, *901 isn't available, so why are you still talking about it?*
 
-Eventually, 1001 will be outdated, and there will be about a 6-12 month period of overlappage between 1001 and the next exam (which I'll assume will be named 1101). If you're one year out from the exam retirement, it may be worth waiting the year for the new exam to come out, since it will be more releavant.
+Eventually, 1001 will be outdated, and there will be about a 6-12 month period of overlap between 1001 and the next exam (which I'll assume will be named 1101). If you're one year out from the exam retirement, it may be worth waiting the year for the new exam to come out, since it will be more relevant.
 
 In their website, CompTIA states the expected retirement date of the current exam and release of the new exam.
 
@@ -100,7 +100,7 @@ The trade off is **ease of studying material**. Older exams have more content to
 
 Ultimately, version history is a matter of preference (unless otherwise stated by an employer or external requirement), and no matter which exam you take, you'll learn valuable information from both.
 
-## Recommended Experienece: Are You Ready?
+## Recommended Experience: Are You Ready?
 
 At this point, you may see in the exam details or objectives it says:
 > Recommended experience: 9 to 12 months hands-on experience in the lab or field.

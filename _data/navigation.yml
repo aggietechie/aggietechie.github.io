@@ -6,12 +6,16 @@ main:
     url: /comptia/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Resume"
     url: /assets/rsc/PublicResume_BL.pdf
+
+comptia-directory:
+  - title: "A+ Certification"
+    children:
+      - title: "Overview"
+        url: /comptia/aplus/A-Certification-Overview/
     

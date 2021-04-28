@@ -16,10 +16,25 @@ Technology is becoming an integral part of our lives. There's thousands of guide
 
 ---
 
-I'm Brandon Le, a student at Texas A&M Univeristy.
+**What can I learn?**
 
-I enjoy learning about new technology and innnovations, finance (stonks), college and education, recruiting and internships, and a bunch of other topics which may or may not be educationally related (pets, food, Texas A&M).
+<img src="/assets/images/codinglaptop.jpg" width="40%"/>
 
-Alongside being CompTIA A+, Network+, and Security+ cerified, I am an active enthusiast in learning about current events relating to, finance, technology, and education. *I am by no means a definitive expert in any of these topics, but I do my best to give accurate information that helps others, and invite constructive critisim and/or correction*.
+Topics that I enjoy talking about are:
+* CompTIA Certifications (A+, Network+, Security+)
+* Programming Experiences (Hackathons, CTF)
+* Random Technology Applications (Building a Computer, Messing with Websites, etc.)
+* Career Opportunities/Experiences and Lessons Learned
+* College Experiences
+
+... and many more!
+
+---
+
+I'm Brandon Le, a student at Texas A&M University.
+
+I enjoy learning about new technology and innovations, finance (stonks), college and education, recruiting and internships, and a bunch of other topics which may or may not be educationally related (pets, food, Texas A&M).
+
+Alongside being CompTIA A+, Network+, and Security+ certified, I am an active enthusiast in learning about current events relating to, finance, technology, and education. *I am by no means a definitive expert in any of these topics, but I do my best to give accurate information that helps others, and invite constructive criticism and/or correction*.
 
 At the end of the day, my hope is that this website can teach, inspire, or entertain others about relevant life skills that I have some experience about, or that I find interesting.

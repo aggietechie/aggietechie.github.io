@@ -271,7 +271,10 @@ compress_html:
 collections:
   comptia:
     output: true
-    permalink: /:collection/:path/
+    permalink: /comptia/:path/
+  aplus:
+    output: true
+    permalink: /comptia/aplus/:path/
 
 # Defaults
 defaults:
