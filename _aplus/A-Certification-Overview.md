@@ -5,6 +5,12 @@ author_profile: false
 toc: true
 tags: CompTIA Certification
 read_time: false
+
+sidebar:
+  title: "A+ Exam Core 1"
+  nav: aplus1-directory
+
+  
 ---
 
 **One of the best beginner certifications an IT can get.**

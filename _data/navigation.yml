@@ -18,4 +18,67 @@ comptia-directory:
     children:
       - title: "Overview"
         url: /comptia/aplus/A-Certification-Overview/
-    
+      - title: "Core 1 (220 - 1001)"
+        url: /
+      - title: "Core 2 (220 -1002)"
+        url: /
+
+aplus1-directory:
+  - title: "1.0: Mobile Deivces"
+    children:
+      - title: "Laptops"
+        url: /
+      - title: "Mobile Devices & Accessories"
+        url: /
+      - title: "Networks & Synchronization"
+        url: /
+  - title: "2.0: Networking"
+    children:
+      - title: "Ports & Protocols"
+        url: /
+      - title: "Network Hardware & Tools"
+        url: /
+      - title: "Network Setup"
+        url: /
+      - title: "Network Hosts"
+        url: /
+      - title: "Configuration & Connection"
+        url: /
+  - title: "3.0: Hardware"
+    children:
+      - title: "Cables"
+        url: /
+      - title: "Connectors"
+        url: /
+      - title: "Computer Components"
+        url: /
+      - title: "Peripherals"
+        url: /
+      - title: "Installation Methods"
+        url: /
+      - title: "Printers"
+        url: /
+      - title: "SOHO Setup"
+        url: /
+  - title: "4.0: Virtualization & Cloud Computing"
+    children:
+      - title: "Cloud Computing"
+        url: /
+      - title: "Virtualization"
+        url: /
+  - title: "5.0: Hardware and Network Troubleshooting"
+    children:
+      - title: "Troubleshooting Theory"
+        url: /
+      - title: "Common Problems"
+        url: /
+
+aplus2-directory:
+  - title: "1.0: Operating Systems"
+    children:
+  - title: "2.0: Security"
+    children:
+  - title: "3.0: Software Troubleshooting"
+    children:
+  - title: "4.0: Operational Procedures"
+    children:

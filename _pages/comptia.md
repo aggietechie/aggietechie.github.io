@@ -6,7 +6,7 @@ collection: comptia
 classes: wide
 
 sidebar:
-  title: "Topics"
+  title: "CompTIA"
   nav: comptia-directory
 ---
 
